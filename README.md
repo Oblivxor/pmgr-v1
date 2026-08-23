@@ -5,8 +5,11 @@
 It provides a simple way to store and retrieve password entries locally using a master password and cryptographic protection provided by **libsodium**.
 
 > **Status:** V1 / Phase 1
+
 > **Platform:** Linux and macOS
+
 > **Language:** C
+
 > **Cryptography:** libsodium
 
 ---
@@ -433,6 +436,9 @@ This project is licensed under the terms specified in the `LICENSE` file.
 
 ## Author
 
+**Muhammad Abdullah**  
+GitHub: [@Oblivxor](https://github.com/Oblivxor)
+
 **PMGR — Password Manager Project**
 
 PMGR is an ongoing project focused on learning, experimentation, and building a password manager from the ground up in C.
@@ -441,6 +447,3 @@ PMGR is an ongoing project focused on learning, experimentation, and building a 
 
 ⭐ If you find the project interesting, consider giving the repository a star.
 
-
-
-Build By Muhammad Abdullah.
